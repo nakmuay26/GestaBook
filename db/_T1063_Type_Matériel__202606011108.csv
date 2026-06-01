@@ -1,0 +1,44 @@
+"Id_Type_Mat","Libellé_Long_Type_Mat","Libellé_Court_Type_Mat","Tarif_Perdu","Tarif_Dégradation","Choix_Tarif_Dégradation","Appliquer_Demi_Tarif"
+1,Manuel scolaire,Manu,,,false,false
+2,Calculatrice,Calc,,,false,false
+3,Tablette,Tab,,,false,false
+4,Autre,Autre,,,false,false
+5,Français 6°,Fr 6°,13.0000,13.0000,false,false
+6,Français 5°,Fr 5°,13.0000,13.0000,false,false
+7,Français 4°,Fr 4°,14.0000,14.0000,false,false
+8,Français 3°,Fr 3°,14.0000,14.0000,false,false
+9,Mathématiques 6°,Maths 6°,12.0000,12.0000,false,false
+10,Mathématiques 5°,Maths 5°,12.0000,12.0000,false,false
+11,Mathématiques 4°,Maths 4°,13.0000,13.0000,false,false
+12,Mathématiques 3°,Maths 3°,13.0000,13.0000,false,false
+13,Histoire-Géo 6°,H-G 6°,14.0000,14.0000,false,false
+14,Histoire-Géo 5°,H-G 5°,14.0000,14.0000,false,false
+15,Histoire-Géo 4°,H-G 4°,15.0000,15.0000,false,false
+16,Histoire-Géo 3°,H-G 3°,15.0000,15.0000,false,false
+17,Allemand 6°,All 6°,14.0000,14.0000,false,false
+18,Allemand 5°,All 5°,12.0000,12.0000,false,false
+19,Allemand 4°,All 4°,9.0000,9.0000,false,false
+20,Allemand 3°,All 3°,11.0000,11.0000,false,false
+21,Anglais 6°,Ang 6°,11.0000,11.0000,false,false
+22,Anglais 5°,Ang 5°,12.0000,12.0000,false,false
+23,Anglais 4°,Ang 4°,11.0000,11.0000,false,false
+24,Anglais 3°,Ang 3°,15.0000,15.0000,false,false
+25,Espagnol 5°,Esp 5°,12.0000,12.0000,false,false
+26,Espagnol 4°,Esp 4°,11.0000,11.0000,false,false
+27,Espagnol 3°,Esp 3°,12.0000,12.0000,false,false
+28,Italien 5°,It 5°,11.0000,11.0000,false,false
+29,Italien 4°,It 4°,11.0000,11.0000,false,false
+30,Italien 3°,It 3°,11.0000,11.0000,false,false
+31,SVT 6°,Svt 6°,12.0000,12.0000,false,false
+32,SVT 5°,Svt 5°,11.0000,11.0000,false,false
+33,SVT 4°,Svt 4°,11.0000,11.0000,false,false
+34,SVT 3°,Svt 3°,12.0000,12.0000,false,false
+35,Physique-Chimie 5°/4°/3°,Phy 5°/4°/3°,15.0000,15.0000,false,false
+36,Sciences Physiques 4°,Phy 4°,11.0000,11.0000,false,false
+37,Sciences Physiques 3°,Phy 3°,11.0000,11.0000,false,false
+38,Latin 5°,Lat 5°,4.0000,4.0000,false,false
+39,Latin 4°,Lat 4°,8.0000,8.0000,false,false
+40,Latin 3°,Lat 3°,8.0000,8.0000,false,false
+41,Sciences et Techno 6°,Sc-Tech 6°,12.0000,12.0000,false,false
+42,Anglais 5°/4°/3°,Ang 5°/4°/3°,15.0000,15.0000,false,false
+43,Allemand A2,All A2,,,false,false
